@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Usuario o contraseña incorrectos, vuelva a intentar</Text>
+      <Text>Usuario o contraseña incorrectos, vuelva a intentar nuevamente</Text>
       <StatusBar style="auto" />
     </View>
   );
